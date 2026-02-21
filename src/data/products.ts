@@ -18,7 +18,8 @@ export const products: Product[] = [
     id: 1,
     name: "Relaxed Cotton Tee",
     price: 18,
-    image: "/images/tee.jpg",
+    image:
+      "https://img.weirdfish.co.uk/cdn-cgi/image/w=700,q=80,f=auto/original/117430.jpg",
     sizes: [
       { size: "S", inStock: true },
       { size: "M", inStock: true },
@@ -30,7 +31,8 @@ export const products: Product[] = [
     id: 2,
     name: "Utility Overshirt",
     price: 65,
-    image: "/images/overshirt.jpg",
+    image:
+      "https://img.weirdfish.co.uk/cdn-cgi/image/w=700,q=80,f=auto/original/136785.jpg",
     sizes: [
       { size: "M", inStock: false },
       { size: "L", inStock: false },
@@ -40,7 +42,8 @@ export const products: Product[] = [
     id: 3,
     name: "Lightweight Hoodie",
     price: 42,
-    image: "/images/hoodie.jpg",
+    image:
+      "https://img.weirdfish.co.uk/cdn-cgi/image/w=700,q=80,f=auto/original/136032.jpg",
     sizes: [
       { size: "XS", inStock: true },
       { size: "S", inStock: true },
@@ -52,7 +55,8 @@ export const products: Product[] = [
     id: 4,
     name: "Waffle Long Sleeve",
     price: 32,
-    image: "/images/waffle.jpg",
+    image:
+      "https://img.weirdfish.co.uk/cdn-cgi/image/w=700,q=80,f=auto/original/135291.jpg",
     sizes: [
       { size: "S", inStock: false },
       { size: "M", inStock: true },
@@ -63,7 +67,8 @@ export const products: Product[] = [
     id: 5,
     name: "Everyday Crew",
     price: 55,
-    image: "/images/crew.jpg",
+    image:
+      "https://img.weirdfish.co.uk/cdn-cgi/image/w=700,q=80,f=auto/original/135291.jpg",
     sizes: [
       { size: "M", inStock: true },
       { size: "L", inStock: true },
@@ -74,7 +79,8 @@ export const products: Product[] = [
     id: 6,
     name: "Zip Through Hoodie",
     price: 70,
-    image: "/images/zip-hoodie.jpg",
+    image:
+      "https://img.weirdfish.co.uk/cdn-cgi/image/w=700,q=80,f=auto/original/135291.jpg",
     sizes: [
       { size: "S", inStock: true },
       { size: "M", inStock: false },
@@ -85,7 +91,8 @@ export const products: Product[] = [
     id: 7,
     name: "Relaxed Jogger",
     price: 48,
-    image: "/images/jogger.jpg",
+    image:
+      "https://img.weirdfish.co.uk/cdn-cgi/image/w=700,q=80,f=auto/original/136434.jpg",
     sizes: [
       { size: "XS", inStock: true },
       { size: "S", inStock: true },
@@ -97,7 +104,8 @@ export const products: Product[] = [
     id: 8,
     name: "Heavyweight Tee",
     price: 22,
-    image: "/images/heavy-tee.jpg",
+    image:
+      "https://img.weirdfish.co.uk/cdn-cgi/image/w=700,q=80,f=auto/original/133148.jpg",
     sizes: [
       { size: "S", inStock: false },
       { size: "M", inStock: false },
